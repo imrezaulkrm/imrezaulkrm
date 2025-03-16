@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Md Rezaul Karim!
+🚀 DevOps & Cloud Engineer | 🖥️ Full Stack Developer  
 
-<!--
-**imrezaulkrm/imrezaulkrm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 **About Me**  
+- 🏗 Passionate about DevOps, Kubernetes, and Cloud solutions  
+- ⚙️ Skilled in **Docker, Kubernetes, Terraform, Jenkins, GCP, and Golang**  
+- 🌐 I love building scalable applications with **Vue.js, Tailwind CSS, and Spring Boot**  
 
-Here are some ideas to get you started:
+📂 **Projects**  
+- [Studentify - Student Management System](https://github.com/imrezaulkrm/Studentify.git)  
+- [MediHelp - Online Pharmacy](https://github.com/imrezaulkrm/MediHelp.git)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Contact Me**  
+- 📧 Email: rezaul1203karim@gmail.com  
+- 🌍 [Portfolio Website](https://your-portfolio-link.com)
