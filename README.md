@@ -12,23 +12,17 @@ With hands-on experience in CI/CD, Infrastructure as Code (IaC), container orche
 
 - **Operating Systems:** ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white),  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 
-- **Containerization:**  
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+- **Containerization:** ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-- **Orchestration:**  
-  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+- **Orchestration:** ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
-- **CI/CD:**  
-  ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white), ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white), ![ArgoCD](https://img.shields.io/badge/ArgoCD-FFFFFF?style=flat&logo=argo-cd&logoColor=E11D48)
+- **CI/CD:** ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white), ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white), ![ArgoCD](https://img.shields.io/badge/ArgoCD-FFFFFF?style=flat&logo=argo-cd&logoColor=E11D48)
 
-- **Infrastructure as Code:**  
-  ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white)
+- **Infrastructure as Code:** ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white)
 
-- **Monitoring & Logging:**  
-  ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white), ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white), ![Loki](https://img.shields.io/badge/Loki-000000?style=flat&logo=loki&logoColor=white)
+- **Monitoring & Logging:** ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white), ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white), ![Loki](https://img.shields.io/badge/Loki-000000?style=flat&logo=loki&logoColor=white)
 
-- **Cloud Platforms:**  
-  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+- **Cloud Platforms:** ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
  
 ### Technologies Dockerized in Projects
 
