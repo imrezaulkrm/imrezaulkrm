@@ -10,8 +10,7 @@ With hands-on experience in CI/CD, Infrastructure as Code (IaC), container orche
 
 ### DevOps Skills & Tools
 
-- **Operating Systems:**  
-  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white),  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+- **Operating Systems:** ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white),  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 
 - **Containerization:**  
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
