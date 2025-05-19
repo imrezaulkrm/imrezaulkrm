@@ -79,8 +79,12 @@ With hands-on experience in CI/CD, Infrastructure as Code (IaC), container orche
 ## Contact Me  
   
 **Website:** [Your Portfolio Link](#)
+
 **LinkedIn:** [linkedin.com/in/imrezaulkrm](https://www.linkedin.com/in/imrezaulkrm)
+
 **Twitter (X):** [x.com/imrezaulkrm](https://x.com/imrezaulkrm)
+
 **Email:** rezaul1203karim@gmail.com  
+
 **Phone:** +880 1871 468781
 
