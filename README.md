@@ -90,9 +90,7 @@ With hands-on experience in CI/CD, Infrastructure as Code (IaC), container orche
 - Implemented logging & monitoring for performance tracking
 
 ## GitHub Stats   
-<p align="center">
-  ![Contribution Graph](https://ghchart.rshah.org/imrezaulkrm)
-</p>
+![Contribution Graph](https://ghchart.rshah.org/imrezaulkrm)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=imrezaulkrm&show_icons=true&theme=github_dark" width="48%" alt="GitHub Stats" />
