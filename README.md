@@ -89,15 +89,14 @@ With hands-on experience in CI/CD, Infrastructure as Code (IaC), container orche
 - Configured Docker & Kubernetes deployment for scalability
 - Implemented logging & monitoring for performance tracking
 
-## GitHub Stats    
+## GitHub Stats   
+<p align="center">
+  ![Contribution Graph](https://ghchart.rshah.org/imrezaulkrm)
+</p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=imrezaulkrm&show_icons=true&theme=github_dark" width="48%" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imrezaulkrm&layout=compact&theme=github_dark" width="48%" alt="Top Languages" />
-</p>
-
-
-<p align="center">
-  ![Contribution Graph](https://ghchart.rshah.org/imrezaulkrm)
 </p>
 
 
